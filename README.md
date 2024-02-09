@@ -6,7 +6,7 @@
 </h1>
 
 
-<h3 align="center">A  budding data analyst with a fervent passion for deriving meaningful insights from data. I thoroughly enjoy the process of analyzing data and crafting compelling narratives that tell the stories hidden within the numbers. </h3>
+<h3 align="center">A data analyst with a fervent passion for deriving meaningful insights from data. I thoroughly enjoy the process of analyzing data and crafting compelling narratives that tell the stories hidden within the numbers. </h3>
 <br/>
 
 <div align="center">
@@ -15,7 +15,7 @@
  
  🌱 I’m currently honing my skills and exploring the vast landscape of data analytics
 
-💞️ I’m looking to contribute and collaborate on impactful data-driven projects.
+💞️ I’m looking to for Data Analytics roles (Freelancing, Remote and Permanent roles)
 
 
  </div>
