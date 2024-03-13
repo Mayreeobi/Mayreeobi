@@ -11,7 +11,7 @@
 
 <div align="center">
  
- 🔭 I’m currently a SQL intern at **Intern Career**
+ 🔭 I’m currently a Data Analyst intern at **CognoRise InfoTech**
  
  🌱 I’m currently honing my skills and exploring the vast landscape of data analytics
 
