@@ -11,7 +11,7 @@
 
 <div align="center">
  
- 🔭 I’m currently a Data Analyst intern at **CognoRise InfoTech**
+ 🔭 I’m currently a Data Storytelling Intern at **Hamoye**
  
  🌱 I’m currently honing my skills and exploring the vast landscape of data analytics
 
