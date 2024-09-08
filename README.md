@@ -43,6 +43,14 @@
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=mayreeobi&show_icons=true&layout=compact&theme=react&border_radius=10" alt="Top Languages"/>
 </div>
 
+<h2 align="center">🏆 Certifications 🏆</h2>
+<div align="center">
+    <img width=140 src="https://res.cloudinary.com/dyd911kmh/image/upload/v1717572704/Certification/Badges%202024/outline/DA_Associate_-_badge_with_outline.png" alt="DataCamp Associate Data Analyst Badge"/> 
+    <br/>
+    <a href="https://www.datacamp.com/certificate/DAA0018571653833" target="_blank">DataCamp Associate Data Analyst</a>
+</div>
+
+
 <hr/>
 
 <h2 align="center">🚀 Notable Projects 🚀</h2>
