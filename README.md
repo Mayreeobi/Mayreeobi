@@ -9,7 +9,7 @@
   🎓 MBA Graduate with a strong foundation in data analysis.<br>
   🌱 Enthusiastically exploring the dynamic world of data analytics.<br>
   🌟 Open to job opportunities in data analytics.<br>
-  📁 All of my projects are available at <a href="https://github.com/your-username/your-portfolio"><img src="https://img.shields.io/badge/Portfolio-24292E?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Badge" /></a><br>
+  📁 All of my projects are available at <a href="https://mayreeobi.github.io/"><img src="https://img.shields.io/badge/Portfolio-24292E?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Badge" /></a><br>
   🤝 I’m looking to collaborate with other data professionals to work on real-world projects and make data-driven decisions.<br>
   😄 Pronouns: She/Her <br>
   ⚡ Fun fact: I love listening to music and enjoy playing Scrabble.<br> 
