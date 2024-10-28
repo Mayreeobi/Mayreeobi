@@ -15,12 +15,17 @@
   ⚡ Fun fact: I love listening to music and enjoy playing Scrabble.<br> 
 </p>
 
-  
 <div align="center"> 
-  <a href="mailto:obichinyere87@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" /></a>
-  <a href="https://linkedin.com/in/chinyere-obi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /></a>
-  <a href="https://twitter.com/Obi_Chii" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Badge" /></a>
+  <a href="mailto:obichinyere87@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" /></a>
+  <a href="https://linkedin.com/in/chinyere-obi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /></a>
+  <a href="https://twitter.com/Obi_Chii" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Badge" /></a>
+  <a href="https://public.tableau.com/app/profile/chinyere.obi8867" target="_blank">
+    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Badge" /></a>
 </div>
+
 
 <h2 align="center">🔧 Skills & Tools 🔧</h2>
 
