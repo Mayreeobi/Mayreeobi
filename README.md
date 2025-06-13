@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Chinyere Obi
+# 👋 Hello, I'm Chinyere Obi
 
 🎯 **Data Analyst | MBA | Power BI • Tableau • SQL • Python**  
 📍 Abuja, Nigeria | 🌍 Open to Remote, Freelance & Global Opportunities
