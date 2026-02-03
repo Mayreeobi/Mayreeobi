@@ -17,9 +17,9 @@ With a business background and a love for data, I bring numbers to life through 
 
 ---
 
-## 📁 Featured Projects
+<!--## 📁 Featured Projects
 
-### 🔹 [Social Media Intelligence Dashboard](https://public.tableau.com/app/profile/chinyere.obi8867/viz/SocialMediaPerformance_17493375078760)
+### 🔹 [SaaS User Access vs Billing Reconciliation System]([https://public.tableau.com/app/profile/chinyere.obi8867/viz/SocialMediaPerformance_17493375078760](https://github.com/Mayreeobi/SaaS-User-Access-vs-Billing-Reconciliation-System))
 Analyzed engagement, reach, and post performance across regions and platforms. Delivered publishing optimization strategies and hashtag effectiveness insights.
 
 ### 🔹 [Healthcare Analytics Dashboard](https://public.tableau.com/app/profile/chinyere.obi8867/viz/HealthcareAnalyticsDashboard_17447229298490/PatientSummary)
@@ -29,7 +29,7 @@ Monitored patient flow, admission rates, and treatment effectiveness. Helped hea
 Visualized product sales across regions and time, tracked revenue and profit trends, and supported marketing and inventory strategies.
 
 ### 🔹 Web Scraping : Real-Time Stock Market Analysis
-Analyzed stock market data and conducted in-depth analysis to identify trends and potential investment strategies, leveraging Python for data scraping and visualization
+Analyzed stock market data and conducted in-depth analysis to identify trends and potential investment strategies, leveraging Python for data scraping and visualization-->
 
 
 ---
