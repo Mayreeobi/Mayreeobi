@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Chinyere Obi
 
-🎯 **Data Analyst | MBA | Power BI • Tableau • SQL • Python**  
+🎯 **Data/BI Analyst | MBA | Excel • Power BI • Tableau • SQL • Python**  
 📍 GMT+1 | 🌍 Open to Remote, Freelance & Global Opportunities
 
 ---
@@ -32,23 +32,54 @@ Visualized product sales across regions and time, tracked revenue and profit tre
 Analyzed stock market data and conducted in-depth analysis to identify trends and potential investment strategies, leveraging Python for data scraping and visualization-->
 
 
----
 
+## 🛠️ Technical Stack & Tools
 
-
-## 🛠️ Tools & Technologies
-
-<div align="center">
+<!--<div align="center">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL Badge"/>
     <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge"/>
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
     <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda Badge"/>
     <img src="https://img.shields.io/badge/Power BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI Badge"/>
     <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Badge"/>
     <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel Badge"/>
-</div>
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+</div>-->
 
+<p align="center"><strong>📊 Data Analysis & Programming</strong></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <!--<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>-->
+</p>
+
+<p align="center"><strong>🗄️ Databases</strong></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <!--<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>-->
+</p>
+
+<p align="center"><strong>📈 Data Visualization & BI</strong></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <!--<img src="https://img.shields.io/badge/Tableau_Public-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>-->
+</p>
+
+<p align="center"><strong>🎨 Design & Prototyping</strong></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+</p>
+
+<!--### 📊 Professional Focus
+* **SaaS Analytics:** Expertise in building automated dashboards for **MRR, CAC, and Churn** reconciliation.
+* **Data Storytelling:** Transforming complex datasets into narrative-driven **Sankey diagrams** and long-form visualizations.
+* **ETL Workflows:** Cleaning and structuring messy "Intake-Outcome" data using Python for production-ready reporting.-->
 ---
 
 ## 📫 Let’s Connect!
