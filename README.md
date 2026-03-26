@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Chinyere Obi
 
 🎯 **Data Analyst | MBA | Power BI • Tableau • SQL • Python**  
-📍 Abuja, Nigeria | 🌍 Open to Remote, Freelance & Global Opportunities
+📍 GMT+1 | 🌍 Open to Remote, Freelance & Global Opportunities
 
 ---
 With a business background and a love for data, I bring numbers to life through interactive dashboards and compelling insights. I use tools like Excel, Power BI, Tableau, SQL, and Python to turn complex data into clear stories that drive decisions.
